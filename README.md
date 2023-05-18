@@ -1,3 +1,25 @@
+# Dev-Scheduler-tool
+
+The goal of this project was to take the starter code that was given by the course and edit the HTML and JS file to make the application functional. We used the day.js library to add the current date to the top of the application. Then we added the remaining 6-7 timeblocks to the html so that it covered the acceptance criteria for covering the standard business hours. Then we added a listener even to the save buttons that saved the input text to local storage so that it would persist if the page was cleared or refreshed. 
+
+## Sources 
+
+used this article to help navigate saving items to local storage: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+
+
+## Software requirements:
+
+Just a browser to use the app on github pages.
+
+## Deployment
+
+![App Screenshot](./assets/Screen%20Shot%202023-05-17%20at%209.56.48%20PM.png)
+
+Github pages deployed app: https://chawscoding.github.io/Dev-Scheduler-tool/
+
+
+# Below is the orignal source code README.md with Acceptance criteria etc
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
